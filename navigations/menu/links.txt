@@ -1,0 +1,29 @@
+* Navigation Bars :
+1. How to Create A Navigation Bar using HTML and CSS | Coding Ninja
+	- https://www.youtube.com/watch?v=-Yw9gBHE60E&ab_channel=CodingNinja
+2. How to create a CSS navigation bar in 6 minutes!
+	- https://www.youtube.com/watch?v=f3uCSh6LIY0&ab_channel=BroCode
+3. Creating a Basic Navigation using HTML CSS - Hindi
+	- https://www.youtube.com/watch?v=15C7kTvU0YM&ab_channel=CodeEasyAcademy
+
+* Responsive Menus : 
+1. How to Create Responsive Navigation Bar | HTML CSS & JS | Full Tutorial
+	- https://www.youtube.com/watch?v=iSMn-QTXX-g&ab_channel=TECH4CODESPACE
+2. How to Create Responsive Navigation Bar using HTML and CSS
+	- https://www.youtube.com/watch?v=EwonjrYbFqg&ab_channel=ProgrammingNinja
+3. How to create a Responsive Navigation Bar (for beginners)
+	- https://www.youtube.com/watch?v=U8smiWQ8Seg&ab_channel=Coding2GO
+
+* Multi Level Drop down Menu 
+How To Make Drop Down Menu Using HTML And CSS | HTML Website Tutorials
+	- https://www.youtube.com/watch?v=wHFflWvii3M&ab_channel=GreatStack
+
+* Mini UI Projects ( Series ) 
+
+20 Mini UI Projects  ( Playlist ) : 
+	- https://www.youtube.com/playlist?list=PLLpfcPJiplIoXaG2eFrCLjTROSlC5Rs6f
+15 Mini UI Projects: 
+	- https://www.youtube.com/watch?v=kAiX0itnonM&ab_channel=Codesistency
+	- https://app.eraser.io/workspace/8yoDl1tVoPcljUboujq2
+29 Mini UI Projects: ( Playlist ) 
+	- https://www.youtube.com/playlist?list=PLvlW4m-toyrdFMEyyx7TtZ0z0CyoGt_JK

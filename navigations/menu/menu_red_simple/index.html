@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<title> Navigation Bar </title>
+		<link rel="stylesheet" href="styles.css" />
+		
+	</head>
+	
+	<body>
+		<nav>
+			<div class="logo"> <a href="#"> Coding Ninja </a> </div>
+			<ul>
+				<li> <a href="#">Home</a> </li>
+				<li> <a href="#">About</a> </li>
+				<li> <a href="#">Contact</a> </li>
+				<li> <a href="#" class="btn">Sign In</a> </li>
+				<li> <a href="#" class="btn">Sign Up</a> </li>
+			</ul>
+		</nav>
+
+		<!-- <div 
+			id="box" 
+			style="width: 200px; height: 200px; background-color: red;">
+			
+		</div> -->
+
+
+	</body>
+	<script>
+		var clrs = [ "Orange", "Red", "Tomato", "Pink" ];
+
+		function handler(e){
+			var index = Math.floor(Math.random() * 4);
+			e.target.style.backgroundColor = clrs[index];
+		}
+
+		var id = document.getElementById("box");
+		id.addEventListener("click", handler);
+		// alert(id);
+		
+
+	</script>
+
+</html>
