@@ -1,3 +1,14 @@
+/* 
+ Following Properties to consider :  
+ overflow: hidden 
+ float:left 
+ display: block;
+
+ 1. overflow: hidden on the <ul> in your code is used to clear the floats of the <li> elements, ensuring the parent <ul> correctly wraps around them and doesn't collapse.
+ 2. With "display: block" css property within ul > li > a 
+        The <a> tag fills the entire <li>, allowing padding to create space on all sides of the text and making it easier to click.
+ */
+
 :root {
         --half_black: hsl(0, 0%, 25%);
         --over_black: hsl(0, 0%, 10%);
@@ -38,7 +49,7 @@ ul li a {
         text-align: center;
 }
 
-ul li a:hover {
+ul li:hover {
         background-color: var(--over_black);
 }
 
