@@ -1,0 +1,47 @@
+:root {
+        --half_black: hsl(0, 0%, 25%);
+        --over_black: hsl(0, 0%, 10%);
+}
+
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        /* border: 1px dashed greenyellow; */
+}
+
+h1 {
+        text-align: center;
+}
+
+/* nav {} */
+
+ul {
+        list-style-type: none;
+        background-color: var(--half_black);
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+        /* display: flex; */
+        /* gap: 20px; */
+}
+
+ul li {
+        float: left;
+}
+
+ul li a {
+        text-decoration: none;
+        color: white;
+        padding: 15px;
+        display: block;
+        text-align: center;
+}
+
+ul li a:hover {
+        background-color: var(--over_black);
+}
+
+main {
+        padding: 10px;
+}

@@ -18,6 +18,12 @@
 How To Make Drop Down Menu Using HTML And CSS | HTML Website Tutorials
 	- https://www.youtube.com/watch?v=wHFflWvii3M&ab_channel=GreatStack
 
+* HTML Form 
+	- https://www.youtube.com/watch?v=zIN54lhJtQU&ab_channel=BroCode
+
+* Case Studies: 
+	- https://www.iloveimg.com/
+
 * Mini UI Projects ( Series ) 
 
 20 Mini UI Projects  ( Playlist ) : 
@@ -27,3 +33,5 @@ How To Make Drop Down Menu Using HTML And CSS | HTML Website Tutorials
 	- https://app.eraser.io/workspace/8yoDl1tVoPcljUboujq2
 29 Mini UI Projects: ( Playlist ) 
 	- https://www.youtube.com/playlist?list=PLvlW4m-toyrdFMEyyx7TtZ0z0CyoGt_JK
+
+https://arhaanali.medium.com/hey-guys-today-we-are-going-to-discuss-all-about-category-filter-using-html-css-and-javascript-6d04375020a8
